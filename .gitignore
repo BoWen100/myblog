@@ -1,0 +1,8 @@
+#ignore all files in the Runtime/ directory
+Runtime/
+
+#ignore all files in the ThinkPHP/ directory
+ThinkPHP/
+
+#ignore all files in the .ide/ directory
+.idea/
